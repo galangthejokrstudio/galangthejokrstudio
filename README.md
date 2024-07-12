@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Create a Discord Bot Script**
 
-- 👨‍💻 All of my projects are available at [https://galangthejokr.vercal.app/](https://galangthejokr.vercal.app/)
+- 👨‍💻 All of my projects are available at [https://galangthejokr.vercel.app/](https://galangthejokr.vercel.app/)
 
 - 💬 Ask me about **Addon / Minecraft**
 
