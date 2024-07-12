@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![logo](https://64.media.tumblr.com/4aca04629fc2415ea3aa1c17a9ae1313/825bc77ea6d50d14-9e/s400x600/88fee28b1df8eaa8565fed0c8623dbdef2189310.gif)
 <h1 align="center">Hi 👋, I'm Galang TehjokR</h1>
 <h3 align="center">This is all my work so don't just copy it 👍</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
