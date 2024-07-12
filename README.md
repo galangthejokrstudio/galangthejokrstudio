@@ -1,6 +1,7 @@
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <h1 align="center">Hi 👋, I'm Galang TehjokR</h1>
 <h3 align="center">This is all my work so don't just copy it 👍</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galangthejokrstudio&label=Profile%20views&color=0e75b6&style=flat" alt="galangthejokrstudio" /> </p>
 
