@@ -1,3 +1,4 @@
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <h1 align="center">Hi 👋, I'm Galang TehjokR</h1>
 <h3 align="center">This is all my work so don't just copy it 👍</h3>
 
