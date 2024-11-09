@@ -1,33 +1,64 @@
-![logo](https://64.media.tumblr.com/4aca04629fc2415ea3aa1c17a9ae1313/825bc77ea6d50d14-9e/s400x600/88fee28b1df8eaa8565fed0c8623dbdef2189310.gif)
-<h1 align="center">Hi 👋, I'm Galang TehjokR</h1>
-<h3 align="center">This is all my work so don't just copy it 👍</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h2 align="left">Hi 👋! My name is Galang and I'm a from Indonesia 🇮🇩</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galangthejokrstudio&label=Profile%20views&color=0e75b6&style=flat" alt="galangthejokrstudio" /> </p>
+###
 
-- 🔭 I’m currently working on **Website Minecraft**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galangthejokrstudio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galangthejokrstudio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Create a Discord Bot Script**
+###
 
-- 👨‍💻 All of my projects are available at [https://galangthejokr.vercel.app/](https://galangthejokr.vercel.app/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
-- 💬 Ask me about **Addon / Minecraft**
+###
 
-- 📫 How to reach me **galangthejokrstudio@gmail.com**
+<div align="left">
+  <a href="https://youtube.com/@galangthejokr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.gg/ngavV5uhaX" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="galangthejokrstudio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **I am Funny**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/galangthejokr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/galangthejokr/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@galangthejokr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@galangthejokr" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/YsynWR8Uc4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/YsynWR8Uc4" height="30" width="40" /></a>
-</p>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<br clear="both">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/galangthejokrstudio/galangthejokrstudio/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galangthejokrstudio&" alt="galangthejokrstudio" /></p>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/k450tc7f/e079f244-7731-429b-a6a6-29ca27684fb1.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/galangthejokrstudio/count.svg?"  />
+</div>
+
+###
